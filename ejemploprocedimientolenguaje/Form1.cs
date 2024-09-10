@@ -17,6 +17,8 @@ namespace ejemploprocedimientolenguaje
         string param,proc;
 
 
+        //
+ 
         public Form1()
         {
             InitializeComponent();
